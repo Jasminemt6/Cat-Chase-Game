@@ -2,7 +2,7 @@ Welcome to Cat Chase!
 
 You're a cat running through a forest after a mouse. Jump over blocks, duck under floating ones, and catch the mouse before it gets away.
 
-![Screenshot](<Screenshot 2026-10-25 at 1.06.40 PM.png>)
+![Screenshot](screenshot.png)
 
 
 
